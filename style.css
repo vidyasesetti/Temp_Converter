@@ -4,9 +4,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(90deg, #4dccbd 0%, #2374ab 100%);
+    background: linear-gradient(90deg, #6177bf 0%, #d39fb9 100%, #f38dbb 100%);
     font-family: monospace, sans-serif;
-    color: #01364d;
+    color: #0d0d0d;
 }
 
 .container {
